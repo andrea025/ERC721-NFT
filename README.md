@@ -1,4 +1,4 @@
-# BlockchainExpert - ERC721/NFTs
+# BlockchainExpert - ERC721 and NFTs
 
 This project provides a ERC721 smart contract that allows you to mint unique NFTs. Once you have deployed the smart contract and minted some NFTs you can run the frontend to view the NFTs you have access to.
 
